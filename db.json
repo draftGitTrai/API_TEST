@@ -1,0 +1,10 @@
+{
+    "customer": [
+      { "id": 1, "customerName": "ABS", "customerPhone": "33043454" },
+      { "id": 1, "customerName": "BBB", "customerPhone": "33043455" },
+      { "id": 1, "customerName": "CSD", "customerPhone": "33043456" },
+      { "id": 1, "customerName": "CDH", "customerPhone": "33043457" },
+      { "id": 1, "customerName": "CSF", "customerPhone": "33043458" },
+      { "id": 1, "customerName": "GDF", "customerPhone": "33043459" }
+    ]
+  }
